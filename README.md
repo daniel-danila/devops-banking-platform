@@ -19,7 +19,7 @@ Jenkins | GitHub Actions | GitLab CI
 Kubernetes Cluster
 Spring Boot API | Tomcat | JBoss
 |
-Oracle DB 23ai
+Oracle DB 26ai
 |
 Infrastructure as Code
 Terraform (OCI | AWS | Azure) | Ansible
